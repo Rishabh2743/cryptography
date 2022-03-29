@@ -1,0 +1,5 @@
+[10/05 10:35:26:097] ConsoleIAP ver. 1.43.1.59B6
+[10/05 10:35:26:097] ..\IAP\HP_Effie_LB_AUO_FHD_264C_2D48_HID_FW6100_171005.ekt
+[10/05 10:35:52:957] IAP Elapsed Time: 26844(ms)
+[10/05 10:35:52:977] [RESULT] Success.(err=1)
+

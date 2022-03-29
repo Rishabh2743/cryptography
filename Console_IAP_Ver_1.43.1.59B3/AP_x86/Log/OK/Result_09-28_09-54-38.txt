@@ -1,0 +1,5 @@
+[09/28 09:54:34:281] ConsoleIAP ver. 1.43.1.59B6
+[09/28 09:54:34:281] ..\IAP\BootCodeUpdater_A740.ekt
+[09/28 09:54:38:486] IAP Elapsed Time: 4227(ms)
+[09/28 09:54:38:516] [RESULT] Success.(err=1)
+

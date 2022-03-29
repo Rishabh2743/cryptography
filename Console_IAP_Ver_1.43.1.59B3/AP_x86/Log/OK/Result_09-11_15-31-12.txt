@@ -1,0 +1,5 @@
+[09/11 15:30:38:831] ConsoleIAP ver. 1.43.1.59B6
+[09/11 15:30:38:831] ..\IAP\LB.ekt
+[09/11 15:31:12:454] IAP Elapsed Time: 33500(ms)
+[09/11 15:31:12:574] [RESULT] Success.(err=1)
+

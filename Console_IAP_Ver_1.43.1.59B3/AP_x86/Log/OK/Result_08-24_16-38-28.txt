@@ -1,0 +1,5 @@
+[08/24 16:37:57:750] ConsoleIAP ver. 1.43.1.59B6
+[08/24 16:37:57:750] ..\IAP\HP_Chimera_G6_Ofilm_BOE_2D19_25CD.ekt
+[08/24 16:38:28:332] IAP Elapsed Time: 30560(ms)
+[08/24 16:38:28:356] [RESULT] Success.(err=1)
+

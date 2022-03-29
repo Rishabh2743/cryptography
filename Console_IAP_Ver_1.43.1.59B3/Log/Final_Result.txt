@@ -1,0 +1,1053 @@
+**************************** 1-th IAP *************************** 
+Start Boot Code update Procedure 
+**************************** 1-th IAP *************************** 
+Start Boot Code update Procedure 
+**************************** 1-th IAP *************************** 
+Start Boot Code update Procedure 
+**************************** 1-th IAP *************************** 
+Start Boot Code update Procedure 
+**************************** 1-th IAP *************************** 
+Start Boot Code update Procedure 
+**************************** 1-th IAP *************************** 
+Start Boot Code update Procedure 
+Start FW update Procedure 
+Update FW Success (Success= 2, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+**************************** 1-th IAP *************************** 
+Start Boot Code update Procedure 
+Download Boot code Success (Success= 1, Failed= 0) 
+Start FW update Procedure 
+Update FW Success (Success= 2, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+**************************** 1-th IAP *************************** 
+Start Boot Code update Procedure 
+**************************** 1-th IAP *************************** 
+Start Boot Code update Procedure 
+Download Boot code Success (Success= 1, Failed= 0) 
+Start FW update Procedure 
+**************************** 1-th IAP *************************** 
+Start Boot Code update Procedure 
+**************************** 1-th IAP *************************** 
+Start Boot Code update Procedure 
+Download Boot code Success (Success= 1, Failed= 0) 
+Start FW update Procedure 
+Update FW Success (Success= 2, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+**************************** 1-th IAP *************************** 
+Start Boot Code update Procedure 
+Download Boot code Success (Success= 1, Failed= 0) 
+Start FW update Procedure 
+Update FW Success (Success= 2, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+**************************** 1-th IAP *************************** 
+Start Boot Code update Procedure 
+Download Boot code Success (Success= 1, Failed= 0) 
+Start FW update Procedure 
+Update FW Success (Success= 2, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+**************************** 1-th IAP *************************** 
+Start Boot Code update Procedure 
+Download Boot code Success (Success= 1, Failed= 0) 
+Start FW update Procedure 
+Update FW Success (Success= 2, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+**************************** 1-th IAP *************************** 
+Start Boot Code update Procedure 
+Download Boot code Success (Success= 1, Failed= 0) 
+Start FW update Procedure 
+Update FW Success (Success= 2, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+**************************** 1-th IAP *************************** 
+Start Boot Code update Procedure 
+Download Boot code Success (Success= 1, Failed= 0) 
+Start FW update Procedure 
+Update FW Success (Success= 2, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+**************************** 1-th IAP *************************** 
+Start Boot Code update Procedure 
+**************************** 1-th IAP *************************** 
+Start Boot Code update Procedure 
+Start FW update Procedure 
+Update FW Success (Success= 2, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+**************************** 1-th IAP *************************** 
+Start Boot Code update Procedure 
+Download Boot code Success (Success= 1, Failed= 0) 
+Start FW update Procedure 
+Update FW Success (Success= 2, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+**************************** 1-th IAP *************************** 
+Start Boot Code update Procedure 
+Start FW update Procedure 
+Update FW Failed (err= 5) 
+**************************** 1-th IAP *************************** 
+Start Boot Code update Procedure 
+Download Boot code Success (Success= 1, Failed= 0) 
+Start FW update Procedure 
+Update FW Success (Success= 2, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+**************************** 1-th IAP *************************** 
+Start Boot Code update Procedure 
+Download Boot code Success (Success= 1, Failed= 0) 
+Start FW update Procedure 
+Update FW Success (Success= 2, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+Start FW update Procedure 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Start FW update Procedure 
+Start FW update Procedure 
+Update FW Failed (err= -6) 
+ 3  
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+**************************** 1-th IAP *************************** 
+Start Boot Code update Procedure 
+Download Boot code Success (Success= 1, Failed= 0) 
+Start FW update Procedure 
+Update FW Success (Success= 2, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+FAILED (err= 5) 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+**************************** 1-th IAP *************************** 
+Start Boot Code update Procedure 
+Download Boot code Success (Success= 1, Failed= 0) 
+Start FW update Procedure 
+Update FW Success (Success= 2, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+**************************** 1-th IAP *************************** 
+Start Boot Code update Procedure 
+Download Boot code Success (Success= 1, Failed= 0) 
+Start FW update Procedure 
+Update FW Success (Success= 2, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Failed (err= -102) 
+ 3  
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Failed (err= -310) 
+ 3  
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Failed (err= -6) 
+ 3  
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Failed (err= -6) 
+ 3  
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Failed (err= -6) 
+ 3  
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Failed (err= -3) 
+ 3  
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Start FW update Procedure 
+Update FW Failed (err= -3) 
+ 3  
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Failed (err= -3) 
+ 3  
+Start FW update Procedure 
+Update FW Failed (err= -3) 
+ 3  
+Start FW update Procedure 
+Update FW Failed (err= -3) 
+ 3  
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Failed (err= -6) 
+ 3  
+Start FW update Procedure 
+Update FW Failed (err= -6) 
+ 3  
+Start FW update Procedure 
+Start FW update Procedure 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Failed (err= -6) 
+ 3  
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Failed (err= -6) 
+ 3  
+Start FW update Procedure 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Start FW update Procedure 
+Start FW update Procedure 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 
+Start FW update Procedure 
+Update FW Success (Success= 1, Failed= 0) 
+********************* Write Flash Key and ReK ********************* 
+SUCCESS 

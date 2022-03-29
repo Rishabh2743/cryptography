@@ -1,0 +1,5 @@
+[09/28 09:54:46:665] ConsoleIAP ver. 1.43.1.59B6
+[09/28 09:54:46:665] ..\IAP\HP_Nightfury_G6_QM_Sharp_2CEE_25F7_FW6112.ekt
+[09/28 09:55:16:547] IAP Elapsed Time: 29889(ms)
+[09/28 09:55:16:570] [RESULT] Success.(err=1)
+

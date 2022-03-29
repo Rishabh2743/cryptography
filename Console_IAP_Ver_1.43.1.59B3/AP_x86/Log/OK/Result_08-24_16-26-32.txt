@@ -1,0 +1,5 @@
+[08/24 16:26:02:080] ConsoleIAP ver. 1.43.1.59B6
+[08/24 16:26:02:080] ..\IAP\HP_Chimera_G6_QM_BOE_2D1B_25CF.ekt
+[08/24 16:26:32:571] IAP Elapsed Time: 30498(ms)
+[08/24 16:26:32:593] [RESULT] Success.(err=1)
+

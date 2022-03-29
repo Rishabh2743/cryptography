@@ -1,0 +1,110 @@
+GetDeviceHandle Start
+Get Device Handle : szDevicePath = \\?\hid#vid_046d&pid_c52b&mi_00#8&1ab5a24e&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}
+Get Device Handle : szDevicePath = \\?\hid#vid_046d&pid_c52b&mi_01&col01#8&32792e93&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}
+Get Device Handle : szDevicePath = \\?\hid#vid_046d&pid_c52b&mi_01&col02#8&32792e93&0&0001#{4d1e55b2-f16f-11cf-88cb-001111000030}
+Get Device Handle : szDevicePath = \\?\hid#vid_046d&pid_c52b&mi_01&col03#8&32792e93&0&0002#{4d1e55b2-f16f-11cf-88cb-001111000030}
+Get Device Handle : szDevicePath = \\?\hid#vid_046d&pid_c52b&mi_01&col04#8&32792e93&0&0003#{4d1e55b2-f16f-11cf-88cb-001111000030}
+Get Device Handle : szDevicePath = \\?\hid#vid_046d&pid_c52b&rev_1201&mi_02&col01#9&5bd0e74&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}
+Get Device Handle : szDevicePath = \\?\hid#vid_046d&pid_c52b&rev_1201&mi_02&col02#9&5bd0e74&0&0001#{4d1e55b2-f16f-11cf-88cb-001111000030}
+Get Device Handle : szDevicePath = \\?\hid#vid_046d&pid_c52b&rev_1201&mi_02&qid_402d&wi_01&class_00000006&col01#9&34b6618f&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}
+Get Device Handle : szDevicePath = \\?\hid#vid_046d&pid_c52b&rev_1201&mi_02&qid_402d&wi_01&class_00000006&col02#9&34b6618f&0&0001#{4d1e55b2-f16f-11cf-88cb-001111000030}
+Get Device Handle : szDevicePath = \\?\hid#vid_046d&pid_c52b&rev_1201&mi_02&qid_402d&wi_02&class_00000006&col01#9&3375cfe1&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}
+Get Device Handle : szDevicePath = \\?\hid#vid_046d&pid_c52b&rev_1201&mi_02&qid_402d&wi_02&class_00000006&col02#9&3375cfe1&0&0001#{4d1e55b2-f16f-11cf-88cb-001111000030}
+Get Device Handle : szDevicePath = \\?\hid#vid_04f3&pid_0007&col01#7&100286a4&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}
+Get Device Handle : szDevicePath = \\?\hid#vid_04f3&pid_0007&col02#7&100286a4&0&0001#{4d1e55b2-f16f-11cf-88cb-001111000030}
+Get Device Handle : szDevicePath = \\?\hid#vid_04f3&pid_0007&col03#7&100286a4&0&0002#{4d1e55b2-f16f-11cf-88cb-001111000030}
+PID=7, ReportID = 2
+Get Device Handle : szDevicePath = \\?\hid#vid_04f3&pid_0007&col04#7&100286a4&0&0003#{4d1e55b2-f16f-11cf-88cb-001111000030}
+PID=7, ReportID = 3
+Get New Elan HID Device
+Get Device Handle : szDevicePath = \\?\hid#vid_04f3&pid_0007&col05#7&100286a4&0&0004#{4d1e55b2-f16f-11cf-88cb-001111000030}
+Get Device Handle : szDevicePath = \\?\hid#vid_04f3&pid_0007&col06#7&100286a4&0&0005#{4d1e55b2-f16f-11cf-88cb-001111000030}
+Get Device Handle : szDevicePath = \\?\hid#vid_04f3&pid_0007&col07#7&100286a4&0&0006#{4d1e55b2-f16f-11cf-88cb-001111000030}
+GetDeviceHandle End
+
+GetDeviceHandle Start
+Get Device Handle : szDevicePath = \\?\hid#vid_046d&pid_c52b&mi_00#8&1ab5a24e&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}
+Get Device Handle : szDevicePath = \\?\hid#vid_046d&pid_c52b&mi_01&col01#8&32792e93&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}
+Get Device Handle : szDevicePath = \\?\hid#vid_046d&pid_c52b&mi_01&col02#8&32792e93&0&0001#{4d1e55b2-f16f-11cf-88cb-001111000030}
+Get Device Handle : szDevicePath = \\?\hid#vid_046d&pid_c52b&mi_01&col03#8&32792e93&0&0002#{4d1e55b2-f16f-11cf-88cb-001111000030}
+Get Device Handle : szDevicePath = \\?\hid#vid_046d&pid_c52b&mi_01&col04#8&32792e93&0&0003#{4d1e55b2-f16f-11cf-88cb-001111000030}
+Get Device Handle : szDevicePath = \\?\hid#vid_046d&pid_c52b&rev_1201&mi_02&col01#9&5bd0e74&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}
+Get Device Handle : szDevicePath = \\?\hid#vid_046d&pid_c52b&rev_1201&mi_02&col02#9&5bd0e74&0&0001#{4d1e55b2-f16f-11cf-88cb-001111000030}
+Get Device Handle : szDevicePath = \\?\hid#vid_046d&pid_c52b&rev_1201&mi_02&qid_402d&wi_01&class_00000006&col01#9&34b6618f&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}
+Get Device Handle : szDevicePath = \\?\hid#vid_046d&pid_c52b&rev_1201&mi_02&qid_402d&wi_01&class_00000006&col02#9&34b6618f&0&0001#{4d1e55b2-f16f-11cf-88cb-001111000030}
+Get Device Handle : szDevicePath = \\?\hid#vid_046d&pid_c52b&rev_1201&mi_02&qid_402d&wi_02&class_00000006&col01#9&3375cfe1&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}
+Get Device Handle : szDevicePath = \\?\hid#vid_046d&pid_c52b&rev_1201&mi_02&qid_402d&wi_02&class_00000006&col02#9&3375cfe1&0&0001#{4d1e55b2-f16f-11cf-88cb-001111000030}
+GetDeviceHandle End
+
+GetDeviceHandle Start
+Get Device Handle : szDevicePath = \\?\hid#vid_046d&pid_c52b&mi_00#8&1ab5a24e&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}
+Get Device Handle : szDevicePath = \\?\hid#vid_046d&pid_c52b&mi_01&col01#8&32792e93&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}
+Get Device Handle : szDevicePath = \\?\hid#vid_046d&pid_c52b&mi_01&col02#8&32792e93&0&0001#{4d1e55b2-f16f-11cf-88cb-001111000030}
+Get Device Handle : szDevicePath = \\?\hid#vid_046d&pid_c52b&mi_01&col03#8&32792e93&0&0002#{4d1e55b2-f16f-11cf-88cb-001111000030}
+Get Device Handle : szDevicePath = \\?\hid#vid_046d&pid_c52b&mi_01&col04#8&32792e93&0&0003#{4d1e55b2-f16f-11cf-88cb-001111000030}
+Get Device Handle : szDevicePath = \\?\hid#vid_046d&pid_c52b&rev_1201&mi_02&col01#9&5bd0e74&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}
+Get Device Handle : szDevicePath = \\?\hid#vid_046d&pid_c52b&rev_1201&mi_02&col02#9&5bd0e74&0&0001#{4d1e55b2-f16f-11cf-88cb-001111000030}
+Get Device Handle : szDevicePath = \\?\hid#vid_046d&pid_c52b&rev_1201&mi_02&qid_402d&wi_01&class_00000006&col01#9&34b6618f&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}
+Get Device Handle : szDevicePath = \\?\hid#vid_046d&pid_c52b&rev_1201&mi_02&qid_402d&wi_01&class_00000006&col02#9&34b6618f&0&0001#{4d1e55b2-f16f-11cf-88cb-001111000030}
+Get Device Handle : szDevicePath = \\?\hid#vid_046d&pid_c52b&rev_1201&mi_02&qid_402d&wi_02&class_00000006&col01#9&3375cfe1&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}
+Get Device Handle : szDevicePath = \\?\hid#vid_046d&pid_c52b&rev_1201&mi_02&qid_402d&wi_02&class_00000006&col02#9&3375cfe1&0&0001#{4d1e55b2-f16f-11cf-88cb-001111000030}
+Get Device Handle : szDevicePath = \\?\hid#vid_04f3&pid_0007&col01#7&100286a4&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}
+Get Device Handle : szDevicePath = \\?\hid#vid_04f3&pid_0007&col02#7&100286a4&0&0001#{4d1e55b2-f16f-11cf-88cb-001111000030}
+Get Device Handle : szDevicePath = \\?\hid#vid_04f3&pid_0007&col03#7&100286a4&0&0002#{4d1e55b2-f16f-11cf-88cb-001111000030}
+PID=7, ReportID = 2
+Get Device Handle : szDevicePath = \\?\hid#vid_04f3&pid_0007&col04#7&100286a4&0&0003#{4d1e55b2-f16f-11cf-88cb-001111000030}
+PID=7, ReportID = 3
+Get New Elan HID Device
+Get Device Handle : szDevicePath = \\?\hid#vid_04f3&pid_0007&col05#7&100286a4&0&0004#{4d1e55b2-f16f-11cf-88cb-001111000030}
+Get Device Handle : szDevicePath = \\?\hid#vid_04f3&pid_0007&col06#7&100286a4&0&0005#{4d1e55b2-f16f-11cf-88cb-001111000030}
+Get Device Handle : szDevicePath = \\?\hid#vid_04f3&pid_0007&col07#7&100286a4&0&0006#{4d1e55b2-f16f-11cf-88cb-001111000030}
+GetDeviceHandle End
+
+GetDeviceHandle Start
+Get Device Handle : szDevicePath = \\?\hid#vid_046d&pid_c52b&mi_00#8&1ab5a24e&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}
+Get Device Handle : szDevicePath = \\?\hid#vid_046d&pid_c52b&mi_01&col01#8&32792e93&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}
+Get Device Handle : szDevicePath = \\?\hid#vid_046d&pid_c52b&mi_01&col02#8&32792e93&0&0001#{4d1e55b2-f16f-11cf-88cb-001111000030}
+Get Device Handle : szDevicePath = \\?\hid#vid_046d&pid_c52b&mi_01&col03#8&32792e93&0&0002#{4d1e55b2-f16f-11cf-88cb-001111000030}
+Get Device Handle : szDevicePath = \\?\hid#vid_046d&pid_c52b&mi_01&col04#8&32792e93&0&0003#{4d1e55b2-f16f-11cf-88cb-001111000030}
+Get Device Handle : szDevicePath = \\?\hid#vid_046d&pid_c52b&rev_1201&mi_02&col01#9&5bd0e74&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}
+Get Device Handle : szDevicePath = \\?\hid#vid_046d&pid_c52b&rev_1201&mi_02&col02#9&5bd0e74&0&0001#{4d1e55b2-f16f-11cf-88cb-001111000030}
+Get Device Handle : szDevicePath = \\?\hid#vid_046d&pid_c52b&rev_1201&mi_02&qid_402d&wi_01&class_00000006&col01#9&34b6618f&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}
+Get Device Handle : szDevicePath = \\?\hid#vid_046d&pid_c52b&rev_1201&mi_02&qid_402d&wi_01&class_00000006&col02#9&34b6618f&0&0001#{4d1e55b2-f16f-11cf-88cb-001111000030}
+Get Device Handle : szDevicePath = \\?\hid#vid_046d&pid_c52b&rev_1201&mi_02&qid_402d&wi_02&class_00000006&col01#9&3375cfe1&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}
+Get Device Handle : szDevicePath = \\?\hid#vid_046d&pid_c52b&rev_1201&mi_02&qid_402d&wi_02&class_00000006&col02#9&3375cfe1&0&0001#{4d1e55b2-f16f-11cf-88cb-001111000030}
+Get Device Handle : szDevicePath = \\?\hid#vid_04f3&pid_0007&col01#7&100286a4&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}
+Get Device Handle : szDevicePath = \\?\hid#vid_04f3&pid_0007&col02#7&100286a4&0&0001#{4d1e55b2-f16f-11cf-88cb-001111000030}
+Get Device Handle : szDevicePath = \\?\hid#vid_04f3&pid_0007&col03#7&100286a4&0&0002#{4d1e55b2-f16f-11cf-88cb-001111000030}
+PID=7, ReportID = 2
+Get Device Handle : szDevicePath = \\?\hid#vid_04f3&pid_0007&col04#7&100286a4&0&0003#{4d1e55b2-f16f-11cf-88cb-001111000030}
+PID=7, ReportID = 3
+Get New Elan HID Device
+Get Device Handle : szDevicePath = \\?\hid#vid_04f3&pid_0007&col05#7&100286a4&0&0004#{4d1e55b2-f16f-11cf-88cb-001111000030}
+Get Device Handle : szDevicePath = \\?\hid#vid_04f3&pid_0007&col06#7&100286a4&0&0005#{4d1e55b2-f16f-11cf-88cb-001111000030}
+Get Device Handle : szDevicePath = \\?\hid#vid_04f3&pid_0007&col07#7&100286a4&0&0006#{4d1e55b2-f16f-11cf-88cb-001111000030}
+GetDeviceHandle End
+
+GetDeviceHandle Start
+Get Device Handle : szDevicePath = \\?\hid#vid_046d&pid_c52b&mi_00#8&1ab5a24e&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}
+Get Device Handle : szDevicePath = \\?\hid#vid_046d&pid_c52b&mi_01&col01#8&32792e93&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}
+Get Device Handle : szDevicePath = \\?\hid#vid_046d&pid_c52b&mi_01&col02#8&32792e93&0&0001#{4d1e55b2-f16f-11cf-88cb-001111000030}
+Get Device Handle : szDevicePath = \\?\hid#vid_046d&pid_c52b&mi_01&col03#8&32792e93&0&0002#{4d1e55b2-f16f-11cf-88cb-001111000030}
+Get Device Handle : szDevicePath = \\?\hid#vid_046d&pid_c52b&mi_01&col04#8&32792e93&0&0003#{4d1e55b2-f16f-11cf-88cb-001111000030}
+Get Device Handle : szDevicePath = \\?\hid#vid_046d&pid_c52b&rev_1201&mi_02&col01#9&5bd0e74&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}
+Get Device Handle : szDevicePath = \\?\hid#vid_046d&pid_c52b&rev_1201&mi_02&col02#9&5bd0e74&0&0001#{4d1e55b2-f16f-11cf-88cb-001111000030}
+Get Device Handle : szDevicePath = \\?\hid#vid_046d&pid_c52b&rev_1201&mi_02&qid_402d&wi_01&class_00000006&col01#9&34b6618f&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}
+Get Device Handle : szDevicePath = \\?\hid#vid_046d&pid_c52b&rev_1201&mi_02&qid_402d&wi_01&class_00000006&col02#9&34b6618f&0&0001#{4d1e55b2-f16f-11cf-88cb-001111000030}
+Get Device Handle : szDevicePath = \\?\hid#vid_046d&pid_c52b&rev_1201&mi_02&qid_402d&wi_02&class_00000006&col01#9&3375cfe1&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}
+Get Device Handle : szDevicePath = \\?\hid#vid_046d&pid_c52b&rev_1201&mi_02&qid_402d&wi_02&class_00000006&col02#9&3375cfe1&0&0001#{4d1e55b2-f16f-11cf-88cb-001111000030}
+Get Device Handle : szDevicePath = \\?\hid#vid_04f3&pid_0007&col01#7&100286a4&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}
+Get Device Handle : szDevicePath = \\?\hid#vid_04f3&pid_0007&col02#7&100286a4&0&0001#{4d1e55b2-f16f-11cf-88cb-001111000030}
+Get Device Handle : szDevicePath = \\?\hid#vid_04f3&pid_0007&col03#7&100286a4&0&0002#{4d1e55b2-f16f-11cf-88cb-001111000030}
+PID=7, ReportID = 2
+Get Device Handle : szDevicePath = \\?\hid#vid_04f3&pid_0007&col04#7&100286a4&0&0003#{4d1e55b2-f16f-11cf-88cb-001111000030}
+PID=7, ReportID = 3
+Get New Elan HID Device
+Get Device Handle : szDevicePath = \\?\hid#vid_04f3&pid_0007&col05#7&100286a4&0&0004#{4d1e55b2-f16f-11cf-88cb-001111000030}
+Get Device Handle : szDevicePath = \\?\hid#vid_04f3&pid_0007&col06#7&100286a4&0&0005#{4d1e55b2-f16f-11cf-88cb-001111000030}
+Get Device Handle : szDevicePath = \\?\hid#vid_04f3&pid_0007&col07#7&100286a4&0&0006#{4d1e55b2-f16f-11cf-88cb-001111000030}
+GetDeviceHandle End
+
